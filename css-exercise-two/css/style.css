@@ -1,0 +1,68 @@
+body {
+  background-color: #A297C4;
+  color: #fff9;
+  font-size: 16px;
+  line-height: 40px;
+}
+h1{
+  font-size: 35px;
+}
+h3{
+  font-size: 18px;
+  line-height: 30px;
+}
+nav {
+  background-color: #70796E;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+.medium-pic
+{
+  width: auto
+}
+a{
+  text-decoration: none;
+  color: #fff;
+  font-style: oblique;
+}
